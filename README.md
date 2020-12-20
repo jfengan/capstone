@@ -58,7 +58,7 @@ python3 -index IXIC -symbol GOOG -index_start 2003-09-08 -symbol_start 2005-08-0
 ### CommodityPricer.ipynb
 
 1. **Highlights**: This model follows a auto-model-selection method to let the model select risk factors available 
-2. **Methodology: ** 
+2. **Methodology:** 
    - Load data, compute the technical factors of commodity instruments
    - compute sector factors and market factors
    - use AIC as the indicator and forward selection to keep the top4 effective factors to form a multi-factor model
@@ -67,8 +67,8 @@ python3 -index IXIC -symbol GOOG -index_start 2003-09-08 -symbol_start 2005-08-0
 
 ### EquityPricer.py
 
-1. **Highlights: ** We employ the Long Short-Term Memory model to predict the price move of a specific stock
-2. **Methodology: ** 
+1. **Highlights:** We employ the Long Short-Term Memory model to predict the price move of a specific stock
+2. **Methodology:** 
    - load data:
      - select the most relative index as the market factor (Dow Jones, Nasdaq, Russel or S&P 500)
      - compute technical factors
