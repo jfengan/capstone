@@ -1,6 +1,14 @@
 # Capstone Project of HKUST MAFM 6100
 
-[toc]
+- [Capstone Project of HKUST MAFM 6100](#capstone-project-of-hkust-mafm-6100)
+  * [Main Idea](#main-idea)
+  * [Projects](#projects)
+    + [Data.py](#datapy)
+    + [Long_Short_Pricer.py](#long-short-pricerpy)
+    + [CommodityPricer.ipynb](#commoditypriceripynb)
+    + [EquityPricer.py](#equitypricerpy)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## Main Idea
 
